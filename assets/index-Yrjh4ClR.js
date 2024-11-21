@@ -3689,7 +3689,6 @@ object-assign
             margin-left: 0;
             margin-top: -5px;
             font-weight: 100;
-            border: 1px solid red;
         }
     }
 
