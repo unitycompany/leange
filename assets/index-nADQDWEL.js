@@ -2356,7 +2356,7 @@ object-assign
         & > p {
             width: 80%;
             font-family: var(--font--comfortaa);
-            font-size: .9rem;
+            font-size: 1rem;
             font-weight: 100;
             line-height: 120%;
 
@@ -2536,7 +2536,7 @@ object-assign
     
             font-weight: 100;
             line-height: 130%;
-            font-size: .9rem;
+            font-size: 1rem;
 
             @media (max-width: 768px){
                 width: 100%;
@@ -2590,7 +2590,7 @@ object-assign
         & > p {
             width: 80%;
             font-family: var(--font--comfortaa);
-            font-size: .9rem;
+            font-size: 1rem;
             font-weight: 100;
             line-height: 130%;
 
@@ -2710,7 +2710,7 @@ object-assign
             font-family: var(--font--comfortaa);
             font-weight: 100;
             line-height: 130%;
-            font-size: .9rem;
+            font-size: 1rem;
 
                 @media (max-width: 768px){
         
@@ -2848,7 +2848,7 @@ object-assign
             font-family: var(--font--comfortaa);
             text-align: right;
             font-weight: 100;
-            font-size: .9rem;
+            font-size: 1rem;
             line-height: 130%;
 
                 @media (max-width: 768px){
@@ -2912,7 +2912,7 @@ object-assign
             & > p {
             width: 80%;
             font-family: var(--font--comfortaa);
-            font-size: 0.9rem;
+            font-size: 1rem;
             font-weight: 100;
             line-height: 130%;
             margin-bottom: 20px;
@@ -2947,7 +2947,7 @@ object-assign
             & > p {
             width: 80%;
             font-family: var(--font--comfortaa);
-            font-size: 0.9rem;
+            font-size: 1rem;
             font-weight: 100;
             line-height: 130%;
 
